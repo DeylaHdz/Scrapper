@@ -1,5 +1,10 @@
 flask
+requests
 pdfplumber
 python-docx
 beautifulsoup4
-requests
+python-slugify
+playwright
+lxml
+pillow
+reportlab
